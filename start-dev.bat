@@ -1,0 +1,3 @@
+@echo off
+echo Starting LSO Logistics System...
+npm run dev
